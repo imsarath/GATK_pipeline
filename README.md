@@ -1,4 +1,4 @@
-# gatk_basic
+# GATK DNA variant calling pipeline
 A very simple and basic shell script to run GATK best practice pipeline for Ubuntu environment.
 
 This is a basic variant calling and annotation pipeline for beginners using the GATK haplotype caller for variant calling and snpeff for variant annotation. 
